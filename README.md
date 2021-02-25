@@ -2,7 +2,7 @@
 It is normal to face issues in this branch,
 
 ## Why?
-For all my friends using my TDs who now need to store everything in it instead of their Drive. [Need help?](https://t.me/tgclonebot)
+For all my friends using my TDs who now need to store everything in it instead of their Drive.)
 
 <p align="center">
 <img src="https://i.imgur.com/CXy0SPB.jpg" alt="drawing" width="270" height=585/>
