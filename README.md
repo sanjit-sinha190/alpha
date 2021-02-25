@@ -1,5 +1,5 @@
 # ⚠️ This is ALPHA Branch!!!
-It is normal to face issues in this branch, since I lazily push all the code I write, without much cleanups. So, if you face issues, instead of complaining, support your issue with logs or screenshot in [Telegram Chat](https://t.me/tgclonebot) or open issues and mention that you used Alpha Branch.
+It is normal to face issues in this branch,
 
 ## Why?
 For all my friends using my TDs who now need to store everything in it instead of their Drive. [Need help?](https://t.me/tgclonebot)
@@ -9,7 +9,7 @@ For all my friends using my TDs who now need to store everything in it instead o
 </p>
 
 ## Guide:
-- YouTube Guide: [Google Drive Clone Bot Set-Up Tutorial | Telegram Bot Setup Guide](https://www.youtube.com/watch?v=2r3_jR7SvUo&feature=youtu.be)
+
   - Follow the above guide for Heroku.
   - If you wish to run on a VPS, Do all the stuff I did on the VPS Terminal ;)
   - Wish to run anywhere else? Follow the guide till the part where I download ZIP Archive from Repl.it. Use that zip on any device you'd like to run the bot on. 
